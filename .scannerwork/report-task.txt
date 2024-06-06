@@ -1,0 +1,6 @@
+projectKey=wttweb
+serverUrl=http://localhost:9000
+serverVersion=10.5.0.89998
+dashboardUrl=http://localhost:9000/dashboard?id=wttweb
+ceTaskId=852db8e7-31de-42f1-bf42-b624cb22d85e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=852db8e7-31de-42f1-bf42-b624cb22d85e
